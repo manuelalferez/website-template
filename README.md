@@ -1,6 +1,6 @@
 # Website template 
 
-Welcome! This project is to create website of one page in a few minutes. 
+Welcome! This project is to create website of one page in a few minutes using [Markdown](https://www.markdownguide.org/). 
 
 
 
