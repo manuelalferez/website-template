@@ -50,3 +50,8 @@ To explain the other files and go into more detail on the internal workings of t
 2. **Apply some styles** by modifying the styles in `App.css` file.
 3. That's it!, you already have it!
 
+
+
+## Themes 
+
+Project on GitHub with a lot of themes [[Link]](https://github.com/mixu/markdown-styles)
