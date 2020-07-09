@@ -1,6 +1,6 @@
-![](http://i.imgur.com/9T8zu13.png)
+<img src="http://i.imgur.com/9T8zu13.png" style="zoom:50%;" />
 
-![](http://i.imgur.com/c7hFda5.png)
+<img src="http://i.imgur.com/c7hFda5.png" style="zoom:67%;" />
 
 
 
